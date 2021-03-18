@@ -7,4 +7,4 @@ Let's Travel. In this website mock-up the travel pictures are the main focus. In
 
 Exotic Car is a one page mock-up with a heavy amount of CSS code. It's all about style and the color scheme gives it a modern and slick look. Pointer change, header and footer transitions, and custom buttons for the social links.
 
-Gotham is a blog sitewith custom fonts, an aside bar with a custom calendar,custom search bar, and custom social link buttons. This website relies heavly on flexbox.
+Gotham is a blog site with custom fonts, an aside bar with a custom calendar,custom search bar, and custom social link buttons. This website relies heavly on flexbox.

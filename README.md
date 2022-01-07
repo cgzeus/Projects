@@ -1,5 +1,5 @@
 # Projects
-A repository of my projects in HTML, CSS, JavaScript, and Python
+A repository of my projects in HTML, CSS, JavaScript, Java, and Python
 
 Coffee and Cakes is a simply website, no CSS applied. It has three pages, working links and working contact button.
 
